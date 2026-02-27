@@ -1,0 +1,17 @@
+body{
+    margin-left: 20px;
+}
+.chat{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.maroon{
+    color: maroon;
+}
+h2{
+    color: green;
+}
+.labels{
+    padding-left: 20px;
+}
